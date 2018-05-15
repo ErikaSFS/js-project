@@ -1,1 +1,2 @@
-# js-project
+Projetos em Javascript. 
+Em andamento...
